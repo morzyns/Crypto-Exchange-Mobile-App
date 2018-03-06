@@ -1,6 +1,9 @@
 # Crypto Exchange Mobile App
 Crypto Exchange Mobile Hybrid App is a TypeScript / NativeScript implementation to integrate with any exchange's API
 
+![](http://intersens.net/crypto-exchange-app/demo3.gif)
+![](http://intersens.net/crypto-exchange-app/demo1.gif)
+
 ## MAIN FEATURES 
 
 Ready to trade – needs just API keys / can work from JSON mockup
